@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-04-19T09:50:36.058139Z",
+      "format": null,
+      "last_modified": "2022-04-19T09:50:36.058139Z",
+      "mimetype": null,
+      "name": "Acide-Base",
+      "path": "term-pc/Acide-Base",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-19T09:50:36.062139Z",
+      "format": null,
+      "last_modified": "2022-04-19T09:50:36.062139Z",
+      "mimetype": null,
+      "name": "Radioactivit\u00e9",
+      "path": "term-pc/Radioactivit\u00e9",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-19T09:50:36.058139Z",
+      "format": null,
+      "last_modified": "2022-04-19T09:50:36.058139Z",
+      "mimetype": null,
+      "name": "ECE",
+      "path": "term-pc/ECE",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-19T09:50:36.062139Z",
+      "format": null,
+      "last_modified": "2022-04-19T09:50:36.062139Z",
+      "mimetype": null,
+      "name": "Mecanique",
+      "path": "term-pc/Mecanique",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2022-04-19T09:50:36.062139Z",
+  "format": "json",
+  "last_modified": "2022-04-19T09:50:36.062139Z",
+  "mimetype": null,
+  "name": "term-pc",
+  "path": "term-pc",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

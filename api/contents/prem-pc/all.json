@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-04-19T09:50:36.054138Z",
+      "format": null,
+      "last_modified": "2022-04-19T09:50:36.054138Z",
+      "mimetype": null,
+      "name": "description-fluide-au-repos",
+      "path": "prem-pc/description-fluide-au-repos",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-19T09:50:36.058139Z",
+      "format": null,
+      "last_modified": "2022-04-19T09:50:36.058139Z",
+      "mimetype": null,
+      "name": "mecanique",
+      "path": "prem-pc/mecanique",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2022-04-19T09:50:36.054138Z",
+  "format": "json",
+  "last_modified": "2022-04-19T09:50:36.054138Z",
+  "mimetype": null,
+  "name": "prem-pc",
+  "path": "prem-pc",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

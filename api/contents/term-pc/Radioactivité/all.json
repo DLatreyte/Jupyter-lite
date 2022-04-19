@@ -2,20 +2,32 @@
   "content": [
     {
       "content": null,
-      "created": "2022-04-19T09:50:36.062139Z",
+      "created": "2022-04-19T14:25:52.503151Z",
       "format": null,
-      "last_modified": "2022-04-19T09:49:27.833227Z",
+      "last_modified": "2022-04-19T14:24:44.953542Z",
+      "mimetype": null,
+      "name": "D\u00e9croissance radioactive \u00e9l\u00e8ves.ipynb",
+      "path": "term-pc/Radioactivit\u00e9/D\u00e9croissance radioactive \u00e9l\u00e8ves.ipynb",
+      "size": 12038,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-19T14:25:52.503151Z",
+      "format": null,
+      "last_modified": "2022-04-19T14:24:44.953542Z",
       "mimetype": null,
       "name": "D\u00e9croissance radioactive.ipynb",
       "path": "term-pc/Radioactivit\u00e9/D\u00e9croissance radioactive.ipynb",
-      "size": 125720,
+      "size": 127153,
       "type": "notebook",
       "writable": true
     }
   ],
-  "created": "2022-04-19T09:50:36.062139Z",
+  "created": "2022-04-19T14:25:52.503151Z",
   "format": "json",
-  "last_modified": "2022-04-19T09:50:36.062139Z",
+  "last_modified": "2022-04-19T14:25:52.503151Z",
   "mimetype": null,
   "name": "Radioactivit\u00e9",
   "path": "term-pc/Radioactivit\u00e9",

@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-04-19T09:50:36.062139Z",
+      "created": "2022-04-19T14:25:52.499151Z",
       "format": null,
-      "last_modified": "2022-04-19T09:49:27.833227Z",
+      "last_modified": "2022-04-19T14:24:44.953542Z",
       "mimetype": null,
       "name": "trace-vecteurs-eleves.ipynb",
       "path": "term-pc/Mecanique/trace-vecteurs-eleves.ipynb",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-04-19T09:50:36.062139Z",
+      "created": "2022-04-19T14:25:52.499151Z",
       "format": null,
-      "last_modified": "2022-04-19T09:49:27.829227Z",
+      "last_modified": "2022-04-19T14:24:44.953542Z",
       "mimetype": null,
       "name": "Chute-goutte-eau.ipynb",
       "path": "term-pc/Mecanique/Chute-goutte-eau.ipynb",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-04-19T09:50:36.062139Z",
+      "created": "2022-04-19T14:25:52.503151Z",
       "format": null,
-      "last_modified": "2022-04-19T09:49:27.833227Z",
+      "last_modified": "2022-04-19T14:24:44.953542Z",
       "mimetype": null,
       "name": "trace-vecteurs.ipynb",
       "path": "term-pc/Mecanique/trace-vecteurs.ipynb",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-04-19T09:50:36.058139Z",
+      "created": "2022-04-19T14:25:52.499151Z",
       "format": null,
-      "last_modified": "2022-04-19T09:49:27.829227Z",
+      "last_modified": "2022-04-19T14:24:44.949542Z",
       "mimetype": null,
       "name": "Chute-goutte-eau-eleves.ipynb",
       "path": "term-pc/Mecanique/Chute-goutte-eau-eleves.ipynb",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-04-19T09:50:36.062139Z",
+      "created": "2022-04-19T14:25:52.499151Z",
       "format": null,
-      "last_modified": "2022-04-19T09:49:27.829227Z",
+      "last_modified": "2022-04-19T14:24:44.953542Z",
       "mimetype": null,
       "name": "Vitesse \u00e0 la sortie d'une rampe de lancement.ipynb",
       "path": "term-pc/Mecanique/Vitesse \u00e0 la sortie d'une rampe de lancement.ipynb",
@@ -61,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-04-19T09:50:36.062139Z",
+  "created": "2022-04-19T14:25:52.503151Z",
   "format": "json",
-  "last_modified": "2022-04-19T09:50:36.062139Z",
+  "last_modified": "2022-04-19T14:25:52.503151Z",
   "mimetype": null,
   "name": "Mecanique",
   "path": "term-pc/Mecanique",

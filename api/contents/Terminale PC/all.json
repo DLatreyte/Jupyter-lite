@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-04-19T14:41:29.628049Z",
+      "created": "2022-04-19T14:51:06.937688Z",
       "format": null,
-      "last_modified": "2022-04-19T14:41:29.628049Z",
+      "last_modified": "2022-04-19T14:51:06.937688Z",
       "mimetype": null,
       "name": "Acide-Base",
       "path": "Terminale PC/Acide-Base",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-04-19T14:41:29.632049Z",
+      "created": "2022-04-19T14:51:06.941688Z",
       "format": null,
-      "last_modified": "2022-04-19T14:41:29.632049Z",
+      "last_modified": "2022-04-19T14:51:06.941688Z",
       "mimetype": null,
       "name": "Radioactivit\u00e9",
       "path": "Terminale PC/Radioactivit\u00e9",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-04-19T14:41:29.628049Z",
+      "created": "2022-04-19T14:51:06.937688Z",
       "format": null,
-      "last_modified": "2022-04-19T14:41:29.628049Z",
+      "last_modified": "2022-04-19T14:51:06.937688Z",
       "mimetype": null,
       "name": "ECE",
       "path": "Terminale PC/ECE",
@@ -38,9 +38,21 @@
     },
     {
       "content": null,
-      "created": "2022-04-19T14:41:29.628049Z",
+      "created": "2022-04-19T14:51:06.945688Z",
       "format": null,
-      "last_modified": "2022-04-19T14:41:29.628049Z",
+      "last_modified": "2022-04-19T14:50:04.237497Z",
+      "mimetype": "video/mp4",
+      "name": "panier.mp4",
+      "path": "Terminale PC/panier.mp4",
+      "size": 460558,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-19T14:51:06.941688Z",
+      "format": null,
+      "last_modified": "2022-04-19T14:51:06.941688Z",
       "mimetype": null,
       "name": "Mecanique",
       "path": "Terminale PC/Mecanique",
@@ -49,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-04-19T14:41:29.632049Z",
+  "created": "2022-04-19T14:51:06.945688Z",
   "format": "json",
-  "last_modified": "2022-04-19T14:41:29.632049Z",
+  "last_modified": "2022-04-19T14:51:06.945688Z",
   "mimetype": null,
   "name": "Terminale PC",
   "path": "Terminale PC",

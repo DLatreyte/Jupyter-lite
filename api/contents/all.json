@@ -2,21 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-04-19T14:41:29.632049Z",
+      "created": "2022-04-19T14:51:06.945688Z",
       "format": null,
-      "last_modified": "2022-04-19T14:41:29.632049Z",
-      "mimetype": null,
-      "name": "nc",
-      "path": "nc",
-      "size": null,
-      "type": "directory",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-04-19T14:41:29.632049Z",
-      "format": null,
-      "last_modified": "2022-04-19T14:41:29.632049Z",
+      "last_modified": "2022-04-19T14:51:06.945688Z",
       "mimetype": null,
       "name": "Terminale PC",
       "path": "Terminale PC",
@@ -26,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-04-19T14:41:29.624049Z",
+      "created": "2022-04-19T14:51:06.933687Z",
       "format": null,
-      "last_modified": "2022-04-19T14:41:29.624049Z",
+      "last_modified": "2022-04-19T14:51:06.933687Z",
       "mimetype": null,
       "name": "Python",
       "path": "Python",
@@ -38,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-04-19T14:41:29.620049Z",
+      "created": "2022-04-19T14:51:06.929688Z",
       "format": null,
-      "last_modified": "2022-04-19T14:41:29.620049Z",
+      "last_modified": "2022-04-19T14:51:06.929688Z",
       "mimetype": null,
       "name": "Premi\u00e8re PC",
       "path": "Premi\u00e8re PC",
@@ -50,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-04-19T14:41:29.624049Z",
+      "created": "2022-04-19T14:51:06.933687Z",
       "format": null,
-      "last_modified": "2022-04-19T14:41:27.764025Z",
+      "last_modified": "2022-04-19T14:51:04.929684Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -61,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-04-19T14:41:29.632049Z",
+  "created": "2022-04-19T14:51:06.933687Z",
   "format": "json",
-  "last_modified": "2022-04-19T14:41:29.632049Z",
+  "last_modified": "2022-04-19T14:51:06.933687Z",
   "mimetype": null,
   "name": "",
   "path": "",

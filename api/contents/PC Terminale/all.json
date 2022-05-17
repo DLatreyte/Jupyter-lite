@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-05-17T13:48:56.588794Z",
+      "created": "2022-05-17T14:37:55.174105Z",
       "format": null,
-      "last_modified": "2022-05-17T13:48:56.588794Z",
+      "last_modified": "2022-05-17T14:37:55.174105Z",
       "mimetype": null,
       "name": "Acide-Base",
       "path": "PC Terminale/Acide-Base",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-05-17T13:48:56.596794Z",
+      "created": "2022-05-17T14:37:55.182105Z",
       "format": null,
-      "last_modified": "2022-05-17T13:48:56.596794Z",
+      "last_modified": "2022-05-17T14:37:55.182105Z",
       "mimetype": null,
       "name": "Radioactivit\u00e9",
       "path": "PC Terminale/Radioactivit\u00e9",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-05-17T13:48:56.596794Z",
+      "created": "2022-05-17T14:37:55.182105Z",
       "format": null,
-      "last_modified": "2022-05-17T13:48:56.596794Z",
+      "last_modified": "2022-05-17T14:37:55.182105Z",
       "mimetype": null,
       "name": "Mecanique",
       "path": "PC Terminale/Mecanique",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-05-17T13:48:56.600794Z",
+      "created": "2022-05-17T14:37:55.186105Z",
       "format": null,
-      "last_modified": "2022-05-17T13:47:50.581025Z",
+      "last_modified": "2022-05-17T14:36:46.349125Z",
       "mimetype": "video/mp4",
       "name": "panier.mp4",
       "path": "PC Terminale/panier.mp4",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-05-17T13:48:56.588794Z",
+      "created": "2022-05-17T14:37:55.174105Z",
       "format": null,
-      "last_modified": "2022-05-17T13:48:56.588794Z",
+      "last_modified": "2022-05-17T14:37:55.174105Z",
       "mimetype": null,
       "name": "ECE",
       "path": "PC Terminale/ECE",
@@ -61,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-05-17T13:48:56.600794Z",
+  "created": "2022-05-17T14:37:55.186105Z",
   "format": "json",
-  "last_modified": "2022-05-17T13:48:56.600794Z",
+  "last_modified": "2022-05-17T14:37:55.186105Z",
   "mimetype": null,
   "name": "PC Terminale",
   "path": "PC Terminale",

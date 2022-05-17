@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-17T13:08:38.860583Z",
+      "format": null,
+      "last_modified": "2022-05-17T13:07:30.675023Z",
+      "mimetype": "video/quicktime",
+      "name": "BallTossUp.mov",
+      "path": "PC Terminale/Mecanique/videos/BallTossUp.mov",
+      "size": 748636,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-17T13:08:38.860583Z",
+  "format": "json",
+  "last_modified": "2022-05-17T13:08:38.860583Z",
+  "mimetype": null,
+  "name": "videos",
+  "path": "PC Terminale/Mecanique/videos",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
